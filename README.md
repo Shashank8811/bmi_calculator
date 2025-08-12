@@ -8,10 +8,10 @@ A simple Python program to calculate Body Mass Index (BMI) and determine your he
 BMI = weight / (height \* height)
 
 3.Classifies BMI into categories:
-Underweight
-Normal weight
-Overweight
-Obese
+  -Underweight
+  -Normal weight
+  -Overweight
+  -Obese
 
 👨‍💻 Author - Shashank C V GitHub: @Shashank8811 (https://github.com/Shashank8811)
 
